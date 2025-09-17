@@ -32,6 +32,6 @@ def two_sum_pairs(numbers, target):
     # return ExampleListName
 
 # Test cases - you can run this file directly to test your function!
-if __name__ == "__main__":
+
 
 
