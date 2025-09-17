@@ -9,7 +9,7 @@ def two_sum_pairs(numbers, target):
     """
     Return all value pairs as sets such that the two values sum to the target.
 
-    The pairs are returned in the order discovered by a simple nested for-loop:
+    The pairs  are returned in the order discovered by a simple nested for-loop:
     - Outer loop goes i from 0..len(numbers)-1
     - Inner loop goes j from i+1..len(numbers)-1
 
